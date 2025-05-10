@@ -27,7 +27,7 @@
           <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
           <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white">
           </div>
     </div>
     <div align= "center">
@@ -40,8 +40,9 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somijjjjj&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-          /> </div> 
+  <img src="https://github-readme-stats.vercel.app/api?username=somijjjjj&theme=vue&show_icons=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somijjjjj&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+          />
+</div> 
     </div>
-    
+  
     
