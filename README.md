@@ -10,7 +10,7 @@
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white">
           <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
+          <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
           <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
@@ -31,7 +31,7 @@
           </div>
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💜Contact me </h2> <br> 
     <div align= "center"> <a href=https://velog.io/@silver0/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@silver0/posts"> </a>
          <a href=mailto:somijjjjj@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:somijjjjj@gmail.com"> </a>
          <a href=https://jn-silveryoung.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://jn-silveryoung.tistory.com/"> </a>
